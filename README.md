@@ -2,33 +2,23 @@
 
 This project aims to analyze customer churn using machine learning techniques. The goal is to predict which customers are most likely to leave a service, providing valuable insights for customer retention strategies. The dataset used for this analysis is the **Telco Customer Churn** dataset, which includes customer demographics, account information, and service usage data.
 
-<<<<<<< HEAD
----
-=======
+
 <p align="center">
   <img src="img/Customer-Churn.png" />
 </p>
->>>>>>> 79e88d69d58ad92a12654d2f8c1d20e83322ef7f
+
 
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Installation](#installation)
-<<<<<<< HEAD
-4. [Usage](#usage)
 5. [Machine Learning Model](#machine-learning-model)
 6. [Model Evaluation](#model-evaluation)
 7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-=======
-4. [Machine Learning Model](#machine-learning-model)
-5. [Model Evaluation](#model-evaluation)
-6. [Results](#results)
-8. [Contributing](#contributing)
-9. [Prediction Results Overview](#Prediction-Results-Overview)
->>>>>>> 79e88d69d58ad92a12654d2f8c1d20e83322ef7f
+8. [Prediction Results Overview](#Prediction-Results-Overview)
+9. [Contributing](#contributing)
+
 
 ---
 
@@ -85,9 +75,7 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/bensbehChaimae/Customer-Churn-Analysis.git
 cd Customer-Churn-Analysis
-<<<<<<< HEAD
 
-=======
 ```
 
 ## Machine Learning Model :
@@ -134,4 +122,5 @@ We welcome contributions to improve the analysis, models, and overall project. F
 3. Make your changes.
 
 4. Submit a pull request.
->>>>>>> 79e88d69d58ad92a12654d2f8c1d20e83322ef7f
+
+
