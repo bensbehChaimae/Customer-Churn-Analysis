@@ -5,7 +5,6 @@ This project aims to analyze customer churn using machine learning techniques. T
 <p align="center">
   <img src="Customer-Churn.png" />
 </p>
----
 
 ## Table of Contents
 
@@ -16,6 +15,7 @@ This project aims to analyze customer churn using machine learning techniques. T
 5. [Model Evaluation](#model-evaluation)
 6. [Results](#results)
 8. [Contributing](#contributing)
+9. [Prediction Results Overview](#Prediction-Results-Overview)
 
 ---
 
@@ -97,6 +97,15 @@ Based on these results, the **Random Forest** model performed the best in terms 
 ## Results :
 
 After training the model, we were able to predict customer churn with reasonable accuracy. This model can now be used for customer retention strategies in the business.
+
+
+## Prediction Results Overview
+
+<p align="center">
+  <img src="web_app.jpg />
+</p>
+
+
 
 ## Contributing :
 
