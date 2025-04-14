@@ -76,7 +76,7 @@ cd Customer-Churn-Analysis
 We used the following models for predicting customer churn:
 - **Logistic Regression**
 - **Random Forest**
--**Support Vector Machine (SVM)**
+- **Support Vector Machine (SVM)**
 
 
 ## Model Evaluation:
