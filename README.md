@@ -13,11 +13,11 @@ This project aims to analyze customer churn using machine learning techniques. T
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Installation](#installation)
-5. [Machine Learning Model](#machine-learning-model)
-6. [Model Evaluation](#model-evaluation)
-7. [Results](#results)
-8. [Prediction Results Overview](#Prediction-Results-Overview)
-9. [Contributing](#contributing)
+4. [Machine Learning Model](#machine-learning-model)
+5. [Model Evaluation](#model-evaluation)
+6. [Results](#results)
+7. [Prediction Results Overview](#Prediction-Results-Overview)
+8. [Contributing](#contributing)
 
 
 ---
