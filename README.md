@@ -69,7 +69,7 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/bensbehChaimae/Customer-Churn-Analysis.git
 cd Customer-Churn-Analysis
-
+```
 
 ## Machine Learning Model :
 
