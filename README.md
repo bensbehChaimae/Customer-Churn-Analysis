@@ -9,12 +9,10 @@ This project aims to analyze customer churn using machine learning techniques. T
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Machine Learning Model](#machine-learning-model)
-6. [Model Evaluation](#model-evaluation)
-7. [Results](#results)
+4. [Machine Learning Model](#machine-learning-model)
+5. [Model Evaluation](#model-evaluation)
+6. [Results](#results)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
@@ -72,3 +70,39 @@ To run this project locally, follow these steps:
 git clone https://github.com/bensbehChaimae/Customer-Churn-Analysis.git
 cd Customer-Churn-Analysis
 
+
+## Machine Learning Model :
+
+We used the following models for predicting customer churn:
+- **Logistic Regression**
+- **Random Forest**
+-**Support Vector Machine (SVM)**
+
+
+## Model Evaluation:
+
+After training the models, we evaluated their performance using various metrics:
+
+| Model               | Accuracy | Precision | Recall | F1-Score |
+|---------------------|----------|-----------|--------|----------|
+| Logistic Regression | 0.79     | 0.75      | 0.70   | 0.72     |
+| Random Forest       | 0.83     | 0.80      | 0.75   | 0.77     |
+| SVM                 | 0.77     | 0.74      | 0.72   | 0.73     |
+
+Based on these results, the **Random Forest** model performed the best in terms of overall accuracy and other metrics.
+
+## Results :
+
+After training the model, we were able to predict customer churn with reasonable accuracy. This model can now be used for customer retention strategies in the business.
+
+## Contributing :
+
+We welcome contributions to improve the analysis, models, and overall project. Feel free to:
+
+1. Fork the repository.
+
+2. Create a new branch.
+
+3. Make your changes.
+
+4. Submit a pull request.
