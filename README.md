@@ -2,6 +2,8 @@
 
 This project aims to analyze customer churn using machine learning techniques. The goal is to predict which customers are most likely to leave a service, providing valuable insights for customer retention strategies. The dataset used for this analysis is the **Telco Customer Churn** dataset, which includes customer demographics, account information, and service usage data.
 
+![ ]([images/example.png](https://github.com/bensbehChaimae/Customer-Churn-Analysis/blob/main/images.png))
+
 ---
 
 ## Table of Contents
