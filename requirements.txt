@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Flask 
 fastapi
 pydantic
+
+>>>>>>> 79e88d69d58ad92a12654d2f8c1d20e83322ef7f
