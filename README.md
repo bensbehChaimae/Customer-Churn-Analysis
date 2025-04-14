@@ -102,7 +102,7 @@ After training the model, we were able to predict customer churn with reasonable
 ## Prediction Results Overview
 
 <p align="center">
-  <img src="web_app.jpg />
+  <img src="web_app.jpg" />
 </p>
 
 
